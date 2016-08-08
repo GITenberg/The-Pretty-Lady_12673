@@ -1,0 +1,32 @@
+_repo: The-Pretty-Lady_12673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: One of Bennett's most revealing and underrated novels, The Pretty Lady
+  (1918) is set in London. Contrasting class and character, and rife with deception
+  and misunderstanding, it explores the relationship between Gilbert and a French
+  prostitute, Christine, in a world frenzied with patriotic fervor.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'World War, 1914-1918 -- England -- London -- Fiction'
+- GITenberg
+title: The Pretty Lady
+url: http://www.gutenberg.org/ebooks/12673
